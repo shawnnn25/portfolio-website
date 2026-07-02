@@ -30,4 +30,4 @@ git clone https://github.com/shawnnn25/shawnnn25.github.io.git
 ```
 
 ## Author
-Shawn — CS undergrad, Mumbai
+Shawn — CS postgrad, Mumbai
