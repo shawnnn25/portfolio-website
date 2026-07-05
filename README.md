@@ -1,4 +1,4 @@
-# shawnnn25.github.io
+# portfolio-website
 Personal portfolio website built with HTML, CSS &amp; JavaScript — includes scroll animations, typing effects, and sections for projects, skills, and contact.
 
 # Shawn's Portfolio
@@ -6,7 +6,7 @@ Personal portfolio website built with HTML, CSS &amp; JavaScript — includes sc
 A dark-themed personal portfolio website built with vanilla HTML, CSS, and JavaScript — no frameworks.
 
 ## Live Site
-[shawnnn25.github.io](https://shawnnn25.github.io)
+https://shawn25-portfolio.vercel.app/
 
 ## Features
 - Typing effect in hero section
@@ -30,4 +30,4 @@ git clone https://github.com/shawnnn25/shawnnn25.github.io.git
 ```
 
 ## Author
-Shawn — CS undergrad, Mumbai
+Shawn — CS postgrad, Mumbai
